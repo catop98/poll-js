@@ -94,6 +94,7 @@ body{
 
 .wrapper .form_wrap{
 	margin-bottom: 35px;
+	
 }
 
 .wrapper .form_wrap h2 h3{
@@ -128,9 +129,7 @@ body{
 	transition: 0.5s ease;
 }
 
-.wrapper .form_wrap .input_wrap .input:focus{
-	background: linear-gradient(90deg,#871a89,#e11d7a);
-}
+
 
 .wrapper .btns_wrap{
 	width: 350px;
@@ -291,14 +290,14 @@ body{
   .button-wrapper{
 	  display: flex;
 	  justify-content: center;
-	  
+	
   }
   
   .efect{
 	color: #6b59d3 !important;
 	font-size: 15px;
 	font-weight: 500;
-	padding: 0.5em 1.2em;
+	padding: 0.9em 1.0em;
 	background: rgba(0,0,0,0);
 	border: 2px solid;
 	border-color: #6b59d3;
